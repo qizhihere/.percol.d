@@ -1,0 +1,20 @@
+* What is this?
+  My percol config.
+
+* How to use?
+  Install [[https://github.com/mooz/percol.git][percol]]
+
+  : sudo pip2 install percol
+
+  Clone this repo into your home directory
+
+  : git clone https://github.com/qizhihere/.percol.d.git ~/.percol.d
+
+* Screenshots
+
+  #+begin_html
+  <video preload="metadata" autoplay controls loop>
+    <source src="./record.mp4" type="video/mp4"/>
+    Your browser does not support the video tag.
+  </video>
+  #+end_html
